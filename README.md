@@ -1,6 +1,6 @@
 # Ignite Shop
 
-### O projeto consiste em uma loja de camisetas online usando o Next junto com React, e Stiches para sua estilização e consumindo a API do Stripe para fazer o método de pagamento.
+### O projeto consiste em uma loja de camisetas online usando o Next junto com React, e Stiches para sua estilização, além de consumir a API do Stripe para fazer o método de pagamento.
 <br>
 
  <h1 align="center">
